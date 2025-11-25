@@ -17,7 +17,7 @@ PAGE_NAME = "gmail_search"
 TEST_PATH = "/root/"
 TARGET_URL = "https://mail.google.com/mail/u/0/#inbox"
 RECORDING_PATH = os.path.join(TEST_PATH, "recordings", "gmail_search.wprgo")
-ANNOTATION_PATH = os.path.join(TEST_PATH, "annotations", "gmail_search_interactive.js")
+ANNOTATION_PATH = os.path.join(TEST_PATH, "annotations", "gmail_inbox.js")
 RESULTS_DIR = os.path.join(TEST_PATH, "Results", PAGE_NAME)
 # Mirroring the likely Amazon results file naming
 RESULTS_CSV = os.path.join(RESULTS_DIR, "interactive_results.csv")
@@ -29,7 +29,11 @@ ARCANUM_BIN = "/root/Arcanum/opt/chromium.org/chromium-unstable/chromium-browser
 
 # Expected string to be searched for and potentially leaked
 EXPECTED_STRINGS = [
-    "This is a test message"
+    "This is a test message",
+    "John Doe",
+    "arcanum.netsec@gmail.com",
+    "Test Subject",
+    "jane.smith@gmail.com"
 ]
 
 # --- Core Functions (Mirrored from Amazon) ---
@@ -187,7 +191,7 @@ def check_leakage():
     if not logs:
         return False
         
-    leak_detected = all(value in logs for value in EXPECTED_STRINGS)
+    leak_detected = any(value in logs for value in EXPECTED_STRINGS)
     
     if leak_detected:
         print(Back.GREEN + "Leak check: LEAK DETECTED." + Back.RESET)

@@ -6,22 +6,24 @@ from selenium import webdriver
 from colorama import Fore, Back
 from pyvirtualdisplay import Display
 
-PAGE_NAME = "gmail_compose"
+PAGE_NAME = "gmail_search"
 TEST_PATH = "/root/"
 TARGET_URL = "https://mail.google.com/mail/u/0/#inbox"
-RECORDING_PATH = os.path.join(TEST_PATH, "recordings", "gmail_compose.wprgo")
-ANNOTATION_PATH = os.path.join(TEST_PATH, "annotations", "gmail_compose_interactive.js")
+RECORDING_PATH = os.path.join(TEST_PATH, "recordings", "gmail_search.wprgo")
+ANNOTATION_PATH = os.path.join(TEST_PATH, "annotations", "gmail_inbox.js")
 RESULTS_DIR = os.path.join(TEST_PATH, "Results", PAGE_NAME)
-RESULTS_CSV = os.path.join(RESULTS_DIR, f"{PAGE_NAME}_passive_results.csv")
+RESULTS_CSV = os.path.join(RESULTS_DIR, "passive_results.csv")
 WPR_PATH = "/root/go/pkg/mod/github.com/catapult-project/catapult/web_page_replay_go@v0.0.0-20230901234838-f16ca3c78e46/"
 USER_DATA = "/root/userdata/"
 REALWORLD_EXT_DIR = "/root/extensions/realworld/"
 CHROMEDRIVER_PATH = "/root/chromedriver/chromedriver"
 ARCANUM_BIN = "/root/Arcanum/opt/chromium.org/chromium-unstable/chromium-browser-unstable"
 EXPECTED_STRINGS = [
-    "jane.smith@gmail.com",
+    "This is a test message",
+    "John Doe",
+    "arcanum.netsec@gmail.com",
     "Test Subject",
-    "This is a test message"
+    "jane.smith@gmail.com"
 ]
 
 
@@ -116,7 +118,7 @@ def observe_passively(driver):
 
 def logs_contain_expected_strings():
     logs = read_log_data()
-    return all(value in logs for value in EXPECTED_STRINGS)
+    return any(value in logs for value in EXPECTED_STRINGS)
 
 
 def test_extension(ext_path):

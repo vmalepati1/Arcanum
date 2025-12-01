@@ -205,6 +205,7 @@ def test_extension(ext_path):
     """Runs a single test iteration for a specific extension."""
     driver = None
     leak_detected = False
+    ext_id = os.path.basename(ext_path).replace(".crx", "")
     
     try:
         # Cleanup user data and logs for a fresh run
@@ -219,6 +220,17 @@ def test_extension(ext_path):
         
         # Check logs after interaction
         leak_detected = check_leakage()
+        
+        # Save logs if leak detected
+        if leak_detected:
+            log_dest = os.path.join(TEST_PATH, "New Taint Logs/Gmail_Interactive", ext_id)
+            if not os.path.exists(log_dest):
+                os.makedirs(log_dest)
+            
+            print(f"Saving logs to {log_dest}...")
+            # Copy from both potential locations
+            os.system(f"cp {USER_DATA}taint_*.log '{log_dest}/' 2>/dev/null")
+            os.system(f"cp /ram/analysis/v8logs/taint_*.log '{log_dest}/' 2>/dev/null")
         
     except Exception as e:
         print(Fore.RED + f"Test error: {e}" + Fore.RESET)

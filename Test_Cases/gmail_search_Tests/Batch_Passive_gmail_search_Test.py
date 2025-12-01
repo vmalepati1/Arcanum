@@ -123,18 +123,34 @@ def logs_contain_expected_strings():
 
 def test_extension(ext_path):
     driver = None
+    ext_id = os.path.basename(ext_path).replace(".crx", "")
+    leak_detected = False
+    
     try:
         os.system(f"rm -rf {USER_DATA}")
         clear_log_files()
         driver = launch_arcanum(ext_path)
         observe_passively(driver)
+        leak_detected = logs_contain_expected_strings()
+        
+        # Save logs if leak detected
+        if leak_detected:
+            log_dest = os.path.join(TEST_PATH, "New Taint Logs/Gmail_Passive", ext_id)
+            if not os.path.exists(log_dest):
+                os.makedirs(log_dest)
+            
+            print(f"Saving logs to {log_dest}...")
+            # Copy from both potential locations
+            os.system(f"cp {USER_DATA}taint_*.log '{log_dest}/' 2>/dev/null")
+            os.system(f"cp /ram/analysis/v8logs/taint_*.log '{log_dest}/' 2>/dev/null")
+            
     except Exception as exc:
         print(Fore.RED + f"Extension {ext_path} error: {exc}" + Fore.RESET)
     finally:
         if driver:
             driver.quit()
 
-    return logs_contain_expected_strings()
+    return leak_detected
 
 
 def run_batch():

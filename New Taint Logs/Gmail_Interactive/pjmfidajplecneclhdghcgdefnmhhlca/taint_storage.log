@@ -1,0 +1,891 @@
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/00000002.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000006.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/00000008.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/0000000c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/0000000e.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000012.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button
+
+{"details":"/ram/analysis/v8logs/00000014.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=YBT6VXK8QYKJ5PNGCSTQ<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_add_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses?ref=ya_address_book_add_to_address_book_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button#<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000018.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed
+
+{"details":"/ram/analysis/v8logs/0000001a.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/0000001e.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/00000022.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000026.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/00000028.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/0000002c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/0000002e.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000032.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button
+
+{"details":"/ram/analysis/v8logs/00000034.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=YBT6VXK8QYKJ5PNGCSTQ<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_add_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses?ref=ya_address_book_add_to_address_book_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button#<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000038.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed
+
+{"details":"/ram/analysis/v8logs/0000003a.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/0000003e.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/00000042.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000046.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/00000048.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/0000004c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses
+
+{"details":"/ram/analysis/v8logs/0000004e.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000052.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button
+
+{"details":"/ram/analysis/v8logs/00000054.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=YBT6VXK8QYKJ5PNGCSTQ<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_add_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses?ref=ya_address_book_add_to_address_book_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button#<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/00000058.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed
+
+{"details":"/ram/analysis/v8logs/0000005a.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed#skippedLink<br>https://www.amazon.com/ref=nav_logo<br>https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang<br>https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn<br>https://www.amazon.com/gp/css/order-history?ref_=nav_orders_first<br>https://www.amazon.com/gp/cart/view.html?ref_=nav_cart<br>https://www.amazon.com/blackfriday?ref_=nav_cs_td_bf_dt_cr<br>https://www.amazon.com/fmc/ssd-storefront?ref_=nav_cs_SSD_nav_storefront<br>https://www.amazon.com/haul/store?ref_=nav_cs_hul_disb<br>https://health.amazon.com/onemedical/ppv?ref_=nav_cs_all_health_ingress_aom_medicalcare<br>https://www.amazon.com/luxurystores?ref_=nav_cs_luxury_disc<br>https://www.amazon.com/gp/video/storefront?ref_=nav_cs_prime_video<br>https://www.amazon.com/Amazon_Basics?channel=discovbar&field-lbr_brands_browse-bin=AmazonBasics&ref_=nav_cs_amazonbasics<br>https://www.amazon.com/fmc/learn-more?ref_=nav_cs_groceries<br>https://www.amazon.com/gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again<br>https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books<br>https://www.amazon.com/gp/bestsellers/?ref_=nav_cs_bestsellers<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_fs_hybridhub_navbar_c<br>https://www.amazon.com/hz/mobile/mission?ref_=nav_cs_ci_mcx_mi_d_db<br>https://www.amazon.com/live?ref_=nav_cs_amazonlive<br>https://www.amazon.com/gp/new-releases/?ref_=nav_cs_newreleases<br>https://www.amazon.com/gp/browse.html?node=16115931011&ref_=nav_cs_registry<br>https://www.amazon.com/music/player?ref_=nav_cs_music<br>https://pharmacy.amazon.com/?nodl=0&ref_=nav_cs_pharmacy<br>https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home<br>https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc<br>https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible<br>https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion<br>https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets<br>https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell<br>https://www.amazon.com/cell-phones-service-plans-accessories/b/?ie=UTF8&node=2335752011&ref_=nav_cs_wireless<br>https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys<br>https://www.amazon.com/everyday-essentials?ref_=nav_cs_ee<br>https://www.amazon.com/blackfriday/?_encoding=UTF8&ref_=nav_swm_2025_Event_BFCM&pf_rd_p=4a62132c-ea78-4ebb-b1f7-70f4328bd820&pf_rd_s=nav-sitewide-msg-text&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=H5CD39VBV35AB2J9C7YK<br>https://www.amazon.com/gp/css/homepage.html?ref=ya_address_book_address_book_to_your_account_breadcrumb<br>https://www.amazon.com/a/addresses/add?ref=ya_address_book_add_button<br>https://www.amazon.com/a/addresses?alertId=yaab-enterAddressSucceed#<br>https://www.amazon.com/a/addresses/edit?ref=ya_address_book_edit_button&addressID=DRQH7QU62ECCDRMZCBDQG131J88HZFPGPIAIPGPFZH88J1KPXTQ2EIA2OX76BKQE<br>https://www.amazon.com/cpe/manageoneclick?ref=ya_address_book_one_click_link<br>https://www.amazon.com/gp/css/order-history?ref=ya_address_book_orders_link<br>https://www.amazon.com/gp/history<br>https://www.amazon.jobs/<br>https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_source=gateway&utm_medium=amazonfooters&utm_campaign=newslettersubscribers&utm_content=amazonnewssignup<br>https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer&token=about<br>https://www.amazon.com/b?node=15701038011&ie=UTF8<br>https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer<br>https://www.amazon.com/pr<br>https://www.amazon.com/ir<br>https://www.amazon.com/gp/browse.html?node=2102313011&ref_=footer_devices<br>https://www.amazon.science/<br>https://sell.amazon.com/?ld=AZFSSOA_FTSELL-C&ref_=footer_soa<br>https://developer.amazon.com/<br>https://supply.amazon.com/<br>https://sell.amazon.com/brand-registry?ld=AZUSSOA_ABR-FT<br>https://affiliate-program.amazon.com/<br>https://www.fountain.com/jobs/amazon-delivery-service-partner?utm_source=amazon.com&utm_medium=footer<br>https://logistics.amazon.com/marketing?utm_source=amzn&utm_medium=footer&utm_campaign=home<br>https://advertising.amazon.com/?ref=ext_amzn_ftr<br>https://www.amazon.com/gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing<br>https://www.amazon.com/b/?node=120788043011<br>https://www.amazon.com/b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore<br>https://www.amazon.com/iss/credit/rewardscardmember?plattr=CBFOOT&ref_=footer_cbcc<br>https://www.amazon.com/credit/storecard/member?plattr=PLCCFOOT&ref_=footer_plcc<br>https://www.amazon.com/dp/product/B084KP3NG6?plattr=SCFOOT&ref_=footer_ACB<br>https://www.amazon.com/dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8<br>https://www.amazon.com/hp/shopwithpoints/servicing<br>https://www.amazon.com/gp/browse.html?node=3561432011&ref_=footer_ccmp<br>https://www.amazon.com/gp/browse.html?node=10232440011&ref_=footer_reload_us<br>https://www.amazon.com/b/?node=2238192011&ref=shop_footer_payments_gc_desktop<br>https://www.amazon.com/gp/browse.html?node=388305011&ref_=footer_tfx<br>https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya<br>https://www.amazon.com/gp/css/order-history?ref_=footer_yo<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates<br>https://www.amazon.com/gp/prime?ref_=footer_prime<br>https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4<br>https://www.amazon.com/hz/mycd/myx?ref_=footer_myk<br>https://www.amazon.com/product-safety-alerts?ref_=footer_bsx_ypsa<br>https://www.amazon.com/registries?ref_=nav_footer_registry_giftlist_desktop<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he<br>https://www.amazon.com/?ref_=footer_logo<br>https://www.amazon.com/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang<br>https://www.amazon.com/customer-preferences/country?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_icp_cp<br>https://music.amazon.com/?ref=dm_aff_amz_com<br>https://advertising.amazon.com/?ref=footer_advtsing_amzn_com<br>https://www.6pm.com/<br>https://www.abebooks.com/<br>https://www.acx.com/<br>https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell<br>https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer<br>https://www.amazon.com/business?ref_=footer_retail_b2b<br>https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=footer_aff_fresh<br>https://www.amazon.com/gp/browse.html?node=230659011&ref_=footer_amazonglobal<br>https://www.amazon.com/services?ref_=footer_services<br>https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter<br>https://www.audible.com/<br>https://www.boxofficemojo.com/?ref_=amzn_nav_ftr<br>https://www.goodreads.com/<br>https://www.imdb.com/<br>https://pro.imdb.com/?ref_=amzn_nav_ftr<br>https://kdp.amazon.com/<br>https://www.amazon.com/gp/browse.html?node=13234696011&ref_=_gno_p_foot<br>https://videodirect.amazon.com/home/landing<br>https://www.shopbop.com/<br>https://www.amazon.com/gp/browse.html?node=10158976011&ref_=footer_wrhsdls<br>https://www.wholefoodsmarket.com/<br>https://www.woot.com/<br>https://www.zappos.com/<br>https://ring.com/<br>https://eero.com/<br>https://blinkforhome.com/?ref=nav_footer<br>https://shop.ring.com/pages/neighbors-app<br>https://www.amazon.com/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa<br>https://www.pillpack.com/<br>https://www.amazon.com/gp/browse.html?node=12653393011&ref_=footer_usrenew<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou<br>https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy<br>https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy<br>https://www.amazon.com/privacyprefs?ref_=footer_iba<br>
+
+{"details":"/ram/analysis/v8logs/0000005e.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000886.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/0000088a.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/0000088b.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/0000088f.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>mailer-daemon@googlemail.com<br>jane.smith@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000892.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000893.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>https://mail.google.com/mail/u/0/#starred<br>https://mail.google.com/mail/u/0/#snoozed<br>https://mail.google.com/mail/u/0/#sent<br>https://mail.google.com/mail/u/0/#drafts<br>https://mail.google.com/mail/u/0/#category/purchases<br>https://drive.google.com/u/0/settings/storage?hl=en&utm_medium=web&utm_source=gmail&utm_campaign=storage_meter&utm_content=storage_normal<br>https://www.google.com/intl/en/policies/terms/<br>https://www.google.com/intl/en/policies/privacy/<br>https://www.google.com/gmail/about/policy/<br>
+
+{"details":"/ram/analysis/v8logs/0000089b.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000b3a.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQE4fhWNiHDCnQAAAZq4z8ro2HbPrmfCM7aDQUpAKqsgvuT-TLKMF-Bd1c03ab9iW-8kaffDstL9whxXgCvMlvwUdgCt6bvbrcQ0hdmjiOiKV3SFZv3hSS1G9LUBI_iLXiMHX2U=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitinbajaj1%2F
+
+{"details":"/ram/analysis/v8logs/00000b3b.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000b41.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000b42.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/00000b46.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>mailer-daemon@googlemail.com<br>jane.smith@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000b49.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000b4a.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>https://mail.google.com/mail/u/0/#starred<br>https://mail.google.com/mail/u/0/#snoozed<br>https://mail.google.com/mail/u/0/#sent<br>https://mail.google.com/mail/u/0/#drafts<br>https://mail.google.com/mail/u/0/#category/purchases<br>https://drive.google.com/u/0/settings/storage?hl=en&utm_medium=web&utm_source=gmail&utm_campaign=storage_meter&utm_content=storage_normal<br>https://www.google.com/intl/en/policies/terms/<br>https://www.google.com/intl/en/policies/privacy/<br>https://www.google.com/gmail/about/policy/<br>
+
+{"details":"/ram/analysis/v8logs/00000b52.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000b64.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFh-E5HgLMa6gAAAZq422t4qj8qTJVsOslMrlccxFHU7fO05Z5h-L32W-KJ9oZ0rvS9D4HStpjghlQHWBc_PaKvZJRlTNNdceTP0tEP-l5-us3a-Y0mTHCHekZIPnEJw-bqYUA=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitinbajaj1%2F
+
+{"details":"/ram/analysis/v8logs/00000b65.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000b6b.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000b6c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/00000b70.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000c75.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHn6NhwLtt46AAAAZq4_pN47pJNsjVsaK8IupkuRYDi32tTwwV7I_GlNo8maoaC_unU1rQbfbf_vKmnwM9066gcAEvZr1Fjm8kysq_nQjrk98Fk7TpNJXfM2REeaV1pS96DQfE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitinbajaj1%2F
+
+{"details":"/ram/analysis/v8logs/00000c76.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000c7c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000c7d.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/00000c81.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000c8b.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGznNlKa8WgLQAAAZq5CPegabEPyItCD62pjiNhvCQE2iw67EdV9-0y-CX0c4tfFoj592wWemhezeWd7yoKoANXSri91M1CCSVJ11FKUAuWNJxaA_MlUgCJYC1gEUgmxaRa41U=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitinbajaj1%2F
+
+{"details":"/ram/analysis/v8logs/00000c8c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000c93.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000c94.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/00000c98.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000c9b.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFl-wfPsx8dgAAAAZq5DpUgow2K5PqfNz_0azzwFhSQEZB37oDFAZzRYGS7BTwcyBTjGhRWewgXpUTXtiEkZHiyahGJuhbf_Mg07NmIMsDAZpWny2wf33F1X4uT6hiq-8_ioqI=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitinbajaj1%2F
+
+{"details":"/ram/analysis/v8logs/00000c9c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000ca2.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000ca3.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/00000ca7.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>mailer-daemon@googlemail.com<br>jane.smith@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000caa.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000cab.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>https://mail.google.com/mail/u/0/#starred<br>https://mail.google.com/mail/u/0/#snoozed<br>https://mail.google.com/mail/u/0/#sent<br>https://mail.google.com/mail/u/0/#drafts<br>https://mail.google.com/mail/u/0/#category/purchases<br>https://drive.google.com/u/0/settings/storage?hl=en&utm_medium=web&utm_source=gmail&utm_campaign=storage_meter&utm_content=storage_normal<br>https://www.google.com/intl/en/policies/terms/<br>https://www.google.com/intl/en/policies/privacy/<br>https://www.google.com/gmail/about/policy/<br>https://support.google.com/chat/answer/9341104<br>
+
+{"details":"/ram/analysis/v8logs/00000cb3.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000f55.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHeYjBQzLK4eAAAAZq5GwDQaNanPivS-yCfHguR4VLdVR7tf0v-IJqPKy2jxuwYHIW8cCbL2VFV2DXbtAaqSXfHxL3g-YEB_JBj0zrrOWRzobMxvYQX1P63vQSavZdQSe50898=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitinbajaj1%2F
+
+{"details":"/ram/analysis/v8logs/00000f56.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000f5c.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000f5d.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/00000f61.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/in/nitinbajaj1/
+
+{"details":"/ram/analysis/v8logs/00000fee.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://haphbbhhknaonfloinidkcmadhfjoghc/js/background.js:638:34
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFsIIzVuPCsmAAAAZq5QwMA0NswfpJOKDQMnjlKU21C4z5mg6xGk3zDcD91t3EKtQAoEgHz0te55YkLjpe3EetDxYaIoGFK-xDw-1PIyVbTOECobSysd1cVNm3R8mf1gkdaSI4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnitinbajaj1%2F
+
+{"details":"/ram/analysis/v8logs/00000fef.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000ff5.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000ff6.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>
+
+{"details":"/ram/analysis/v8logs/00000ffa.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: robert@broofa.com<br>arcanum.netsec@gmail.com<br>mailer-daemon@googlemail.com<br>jane.smith@gmail.com<br>
+
+{"details":"/ram/analysis/v8logs/00000ffd.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2369
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://mail.google.com/mail/u/0/#inbox
+
+{"details":"/ram/analysis/v8logs/00000ffe.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
+>>> TAINT SINK `storage` REACHED <<<
+chrome-extension://jdianbbpnakhcmfkcckaboohfgnngfcc/bgv3.js:1:2620
+///////////////////////// Details /////////////////////////
+
+** Tainted bytes (nullptr=1): 
+
+** Sink object: https://support.google.com/mail?p=fix-gmail-loading&authuser=0<br>https://mail.google.com/mail/u/0/?sw=2<br>https://support.google.com/mail/answer/8767?src=sl&hl=en<br>https://mail.google.com/mail/u/0/<br>https://support.google.com/mail/answer/90559?hl=en<br>https://mail.google.com/mail/u/0/#inbox<br>https://www.google.com/intl/en/about/products?tab=mh<br>https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw<br>https://mail.google.com/mail/u/0/#starred<br>https://mail.google.com/mail/u/0/#snoozed<br>https://mail.google.com/mail/u/0/#sent<br>https://mail.google.com/mail/u/0/#drafts<br>https://mail.google.com/mail/u/0/#category/purchases<br>https://drive.google.com/u/0/settings/storage?hl=en&utm_medium=web&utm_source=gmail&utm_campaign=storage_meter&utm_content=storage_normal<br>https://www.google.com/intl/en/policies/terms/<br>https://www.google.com/intl/en/policies/privacy/<br>https://www.google.com/gmail/about/policy/<br>https://support.google.com/chat/answer/9341104<br>
+
+{"details":"/ram/analysis/v8logs/00001006.log","tainted":true,"recursive":{}}
+
+>>> END TAINT SINK REPORT <<<
